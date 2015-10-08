@@ -2,3 +2,6 @@ Nome: Rafael
 Endereço: Rua Constantina Dalmolim Zaneti
 Profissão: Analista de Sistemas
 Empresa: Thomson Reuters
+CEP: 88815-001
+Bairro: Santo Antonio
+Município: Criciúma
