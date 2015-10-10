@@ -1,4 +1,7 @@
 Nome: Lucas de Assis Fernandes
-Endereço: Criciuma
+Endereço: Rua Dolario dos santos
 Profissão: Programador
 Empresa: WebMais Sistemas
+CEP: 88802-080 
+Bairro: Centro
+Município: Criciuma
