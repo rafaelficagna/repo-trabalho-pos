@@ -2,3 +2,6 @@ Nome: Henrique
 Rua: Desembargador Pedro Silva
 Profissão: Analista de teste
 Empresa: Celk Sistemas
+CEP: 88818-615
+Bairro: Comerciário
+Município: Criciúma
