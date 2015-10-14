@@ -2,3 +2,6 @@ Nome: Cristina
 Rua: Desembargador Pedro Silva
 Profissão: Analista de Requisitos
 Empresa: Celk Sistemas
+CEP: 88818-615
+Bairro: Comerciário
+Município: Criciúma
