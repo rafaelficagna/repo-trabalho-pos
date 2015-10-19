@@ -1,0 +1,7 @@
+Nome: Fernando W
+Endereço: Mãe Luzia, Criciúma
+Profissão: Analista de Negócio
+Empresa: Angeloni
+CEP: 88010-000
+Bairro: Mãe Luzia
+Município: Criciúma
