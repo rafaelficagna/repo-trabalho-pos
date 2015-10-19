@@ -1,4 +1,4 @@
-Artur
+﻿Artur
 Charles Eduardo
 Cristina
 Fabricio
@@ -16,6 +16,6 @@ Lucas
 Nilemar
 Niler
 Rafael E
-Rafael F
+Rafael Ficagna
 Rangel Luiz Bombonatto
 Renato
