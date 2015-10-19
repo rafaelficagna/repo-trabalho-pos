@@ -1,0 +1,7 @@
+Nome: Charles 
+Endereco: Av. Centenario, 7045
+Profissão: Programador I
+Empresa: Thomson Reuters
+Bairro: Nossa Senhora da Salete
+CEP: 88815-001
+Cidade: Criciúma
